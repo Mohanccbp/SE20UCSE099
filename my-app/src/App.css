@@ -1,0 +1,47 @@
+/* TrainDetails.css */
+
+.train-details-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.title {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #1a237e; /* Dark blue text color */
+}
+
+.search-input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.train-list {
+  list-style: none;
+  padding: 0;
+}
+
+.train-item {
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: #f9f9f9; /* Light gray background */
+}
+
+.train-item p {
+  margin: 5px 0;
+  color: #333; /* Dark gray text color */
+}
+
+.divider {
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: 15px 0;
+}
