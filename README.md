@@ -1,1 +1,2 @@
 # SE20UCSE099
+I began by registering myself and acquiring the client ID and client secret. Utilizing these credentials, I generated a Bearer token to facilitate the retrieval of information from the API. Subsequently, I developed a React application and integrated a search feature, thereby allowing users to search for specific train details based on their preferences. Furthermore, I successfully organized the train information in a sorted manner to enhance the user experience. During this process, I leveraged Postman to rigorously test the functionality of the API.
